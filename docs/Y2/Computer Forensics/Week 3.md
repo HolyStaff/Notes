@@ -68,3 +68,13 @@ A. mcopy
 B. image 
 C. MD5 
 D. dd
+
+11.
+Which file in the following directory listing contains the main storage of emails, calendar events, and other Outlook items for a user profile in Microsoft Outlook? 
+![[Pasted image 20250513110558.png]]
+A. Outlook bak 
+B. Outlook ost 
+C. Outlook NK2 
+D. Outlook pst
+
+Answer D: profile user storage
